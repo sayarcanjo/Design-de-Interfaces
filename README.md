@@ -66,7 +66,7 @@ Em caso de dúvida, sugestão ou interesse em colaborar, entre em contato:
 *   **Nome:** Sayonara Arcanjo 
 *   **Email:** sayonara.arcanjo@aluno.ufca.edu.br
 *   **GitHub:** [Sayarcanjo](https://github.com/sayarcanjo)
-*   **LinkedIn:** [Sayonara Arcanjo](https://www.linkedin.com/in/sayonara-arcanjo-6878a1225/) (opcional)
+*   **LinkedIn:** [Sayonara Arcanjo](https://www.linkedin.com/in/sayonara-arcanjo-6878a1225/)
 
 ## Licença
 
