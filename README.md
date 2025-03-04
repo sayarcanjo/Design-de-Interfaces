@@ -10,8 +10,7 @@ Repositório do protótipo de design do app **SkillBridge**, desenvolvido na dis
 
 ## Capturas de Tela
 
-![Tela Inicial](/screenshots/home.png)
-![Tela de Perfil](/screenshots/profile.png)
+
 
 ## Funcionalidades Projetadas
 
