@@ -9,7 +9,13 @@ Repositório do protótipo de design do app **SkillBridge**, desenvolvido na dis
 **SkillBridge** é um projeto de design de interface para um app mobile que conecta pessoas para aprender e ensinar habilidades de forma colaborativa. Este repositório contém o protótipo das telas, focado na experiência do usuário (UX) e na interface visual (UI).
 
 ## Capturas de Tela
-
+| Tela | Descrição |
+|---|---|
+| ![Tela de Login](screenshots/tela-de-login.png) | ![Tela de Cadastro](screenshots/tela-de-perfil.png) |
+| ![Tela de Boas-vindas](screenshots/tela-de-perfil.png) | ![Tela Principal](screenshots/tela-principal.png) |
+| ![Tela de Perfil](screenshots/tela-de-perfil.png) | ![Tela de Habilidades](screenshots/tela-de-perfil.png) | 
+| ![Tela de Resumo das mensagens](screenshots/tela-de-perfil.png) | ![Tela de Chat](screenshots/tela-de-perfil.png) | 
+| ![Tela de Busca](screenshots/tela-de-perfil.png) | ![Tela de Explorar](screenshots/tela-de-perfil.png) | 
 
 
 ## Funcionalidades Projetadas
