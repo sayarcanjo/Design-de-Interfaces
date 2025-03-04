@@ -40,7 +40,6 @@ Repositório do protótipo de design do app **SkillBridge**, desenvolvido na dis
 ## Como Visualizar o Projeto
 
 - Acesse o protótipo interativo no Figma: [Protótipo SkillBridge no Figma](https://www.figma.com/file/qmv1AYp6jHN8IGyHSwAvW5/Prot%C3%B3tipo---SkillBridge?node-id=0%3A1&t=tZP3YuhCmrdrz7R1-1).
-- Capturas de tela estão disponíveis na pasta `/screenshots`.
 - Acesse as justificativas das escolhas de projetos em:  [Relatório de projeto - SkillBridge](https://docs.google.com/document/d/1yfoj_aIymLf9jgWFoDoDv3MCeP9UxeqsgNqMwTX3qsE/edit?usp=sharing).
 
 ## Decisões de Design
@@ -59,6 +58,15 @@ O aplicativo utiliza uma paleta de cores suaves e vibrantes, com tons de:
 
 ### UX
 O fluxo de navegação foi projetado para ser intuitivo, com foco na facilidade de interação dos usuários e exploração de novas habilidades.
+
+## Contato
+
+Em caso de dúvida, sugestão ou interesse em colaborar, entre em contato:
+
+*   **Nome:** Sayonara Arcanjo 
+*   **Email:** sayonara.arcanjo@aluno.ufca.edu.br
+*   **GitHub:** [Sayarcanjo](https://github.com/sayarcanjo)
+*   **LinkedIn:** [Sayonara Arcanjo](https://www.linkedin.com/in/sayonara-arcanjo-6878a1225/) (opcional)
 
 ## Licença
 
