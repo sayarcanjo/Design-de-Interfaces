@@ -29,6 +29,7 @@ Repositório do protótipo de design do app **SkillBridge**, desenvolvido na dis
 
 - Acesse o protótipo interativo no Figma: [Protótipo SkillBridge no Figma](https://www.figma.com/file/qmv1AYp6jHN8IGyHSwAvW5/Prot%C3%B3tipo---SkillBridge?node-id=0%3A1&t=tZP3YuhCmrdrz7R1-1).
 - Capturas de tela estão disponíveis na pasta `/screenshots`.
+- Acesse as justificativas das escolhas de projetos em:  [Relatório de projeto - SkillBridge](https://docs.google.com/document/d/1yfoj_aIymLf9jgWFoDoDv3MCeP9UxeqsgNqMwTX3qsE/edit?usp=sharing).
 
 ## Decisões de Design
 
