@@ -9,13 +9,19 @@ Repositório do protótipo de design do app **SkillBridge**, desenvolvido na dis
 **SkillBridge** é um projeto de design de interface para um app mobile que conecta pessoas para aprender e ensinar habilidades de forma colaborativa. Este repositório contém o protótipo das telas, focado na experiência do usuário (UX) e na interface visual (UI).
 
 ## Capturas de Tela
-| Tela | Descrição |
-|---|---
-| ![Tela de login](https://github.com/user-attachments/assets/965c179d-dae7-4f74-b1ae-35158c0e700a) | ![Tela de boas-vindas](https://github.com/user-attachments/assets/933f3619-ca97-46a9-980e-30439deed5f0) |
-| ![Tela inicial](https://github.com/user-attachments/assets/e75311d3-b3c0-407b-a9f9-b58c2758aba7) | ![Tela de perfil](https://github.com/user-attachments/assets/795f76a8-e97f-41af-b63a-a7b4e22e82cc) |
-| ![Tela de cadastro](https://github.com/user-attachments/assets/3e3c2604-7a21-4ba0-87ac-34a6881235dc) | ![Tela de habilidades](https://github.com/user-attachments/assets/b0a40c7f-ab95-4d2d-8e2e-7dce42a58716) | 
-| ![Tela de resumo demensagens](https://github.com/user-attachments/assets/c3654dbd-be2f-4dd2-b7f8-4e602a1100bc) | ![Tela de chat](https://github.com/user-attachments/assets/97a71541-e5ff-4d19-ac2b-bac799be9eb2) | 
-| ![Tela de pesquisa](https://github.com/user-attachments/assets/957a4ba3-4909-4b3e-82be-5fc1875641dd) | ![Tela de pesquisa](https://github.com/user-attachments/assets/d1956c59-f102-4c93-8185-d9552e6feb87) | 
+
+| Visualização 1 | Visualização 2 |
+|---|---|
+| <img src="https://github.com/user-attachments/assets/965c179d-dae7-4f74-b1ae-35158c0e700a" width="400"> | <img src="https://github.com/user-attachments/assets/3e3c2604-7a21-4ba0-87ac-34a6881235dc" width="400"> |
+| <div align="center">**Tela de Login**</div> | <div align="center">**Tela de Cadastro**</div> |
+| <img src="https://github.com/user-attachments/assets/933f3619-ca97-46a9-980e-30439deed5f0" width="400"> | <img src="https://github.com/user-attachments/assets/e75311d3-b3c0-407b-a9f9-b58c2758aba7" width="400"> |
+| <div align="center">**Tela de Boas-vindas**</div> | <div align="center">**Tela Inicial**</div> |
+| <img src="https://github.com/user-attachments/assets/795f76a8-e97f-41af-b63a-a7b4e22e82cc" width="400"> | <img src="https://github.com/user-attachments/assets/b0a40c7f-ab95-4d2d-8e2e-7dce42a58716" width="400"> |
+| <div align="center">**Tela de Perfil**</div> | <div align="center">**Tela de Habilidades**</div> |
+| <img src="https://github.com/user-attachments/assets/c3654dbd-be2f-4dd2-b7f8-4e602a1100bc" width="400"> | <img src="https://github.com/user-attachments/assets/97a71541-e5ff-4d19-ac2b-bac799be9eb2" width="400"> |
+| <div align="center">**Tela de Resumo de Mensagens**</div> | <div align="center">**Tela de Chat**</div> |
+| <img src="https://github.com/user-attachments/assets/957a4ba3-4909-4b3e-82be-5fc1875641dd" width="400"> | <img src="https://github.com/user-attachments/assets/d1956c59-f102-4c93-8185-d9552e6feb87" width="400"> |
+| <div align="center">**Tela de Pesquisa**</div> | <div align="center">**Tela de Explorar**</div> |
 
 
 ## Funcionalidades Projetadas
