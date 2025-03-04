@@ -10,12 +10,12 @@ Repositório do protótipo de design do app **SkillBridge**, desenvolvido na dis
 
 ## Capturas de Tela
 | Tela | Descrição |
-|---|---|
-| ![Tela de Login](screenshots/tela-de-login.png) | ![Tela de Cadastro](screenshots/tela-de-perfil.png) |
-| ![Tela de Boas-vindas](screenshots/tela-de-perfil.png) | ![Tela Principal](screenshots/tela-principal.png) |
-| ![Tela de Perfil](screenshots/tela-de-perfil.png) | ![Tela de Habilidades](screenshots/tela-de-perfil.png) | 
-| ![Tela de Resumo das mensagens](screenshots/tela-de-perfil.png) | ![Tela de Chat](screenshots/tela-de-perfil.png) | 
-| ![Tela de Busca](screenshots/tela-de-perfil.png) | ![Tela de Explorar](screenshots/tela-de-perfil.png) | 
+|---|---
+| ![Tela de login](https://github.com/user-attachments/assets/965c179d-dae7-4f74-b1ae-35158c0e700a) | ![Tela de boas-vindas](https://github.com/user-attachments/assets/933f3619-ca97-46a9-980e-30439deed5f0) |
+| ![Tela inicial](https://github.com/user-attachments/assets/e75311d3-b3c0-407b-a9f9-b58c2758aba7) | ![Tela de perfil](https://github.com/user-attachments/assets/795f76a8-e97f-41af-b63a-a7b4e22e82cc) |
+| ![Tela de cadastro](https://github.com/user-attachments/assets/3e3c2604-7a21-4ba0-87ac-34a6881235dc) | ![Tela de habilidades](https://github.com/user-attachments/assets/b0a40c7f-ab95-4d2d-8e2e-7dce42a58716) | 
+| ![Tela de resumo demensagens](https://github.com/user-attachments/assets/c3654dbd-be2f-4dd2-b7f8-4e602a1100bc) | ![Tela de chat](https://github.com/user-attachments/assets/97a71541-e5ff-4d19-ac2b-bac799be9eb2) | 
+| ![Tela de pesquisa](https://github.com/user-attachments/assets/957a4ba3-4909-4b3e-82be-5fc1875641dd) | ![Tela de pesquisa](https://github.com/user-attachments/assets/d1956c59-f102-4c93-8185-d9552e6feb87) | 
 
 
 ## Funcionalidades Projetadas
